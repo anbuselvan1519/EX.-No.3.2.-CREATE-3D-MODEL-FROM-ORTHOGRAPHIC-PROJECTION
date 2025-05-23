@@ -1,4 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+
+## Name: Anbuselvan S
+## Reg no: 212223240008
 ## DATE:
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -42,10 +45,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![roshini drawing  v2_page-0001](https://github.com/anbuselvan1519/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139841744/c29a2622-9224-494a-88f5-61dedb9061fc)
+![400195414-0b8dc66d-6eea-4eb9-bead-9edcfd9baadb](https://github.com/user-attachments/assets/83d3c131-316b-4a36-a37e-d75537774eee)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
-
-
-
